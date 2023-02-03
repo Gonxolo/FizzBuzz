@@ -7,7 +7,7 @@ for (let i=1; i<=iterations; i++) {
     if (i%3 == 0) {
         say += 'Fizz';
     }
-    if (i%3 == 0) {
+    if (i%5 == 0) {
         say += 'Buzz';
     }
 
